@@ -18,3 +18,9 @@ button {
 	height: 30px;
 	border-radius: 5px;
 }
+#pc {
+	float: left;
+}
+button, div, form, input {
+	margin: 10px;
+}
