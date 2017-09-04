@@ -18,7 +18,7 @@ button {
 	height: 30px;
 	border-radius: 5px;
 }
-#pc {
+.gifs {
 	float: left;
 }
 button, div, form, input {
